@@ -1,7 +1,6 @@
 ### Welcome! 👋
 
-- 💻 Learning Java
-- 📘 Software Engineering Student
+- 💻 Learning JavaScript
 - 📧 E-mail: guilhermehenn@protonmail.com
 
 <div> 
